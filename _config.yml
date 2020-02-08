@@ -1,9 +1,9 @@
 # Site settings
-title: Tsanko Andreev's CV 
-description: Tsanko Andreev's CV
+title: Opi Sen Gupta
+description: Opi Sen Gupta
 favicon: /assets/img/avatar.jpg
-baseurl: "https://tsankoandreev.github.io"
-url: "https://tsankoandreev.github.io"
+baseurl: "https://opisen.github.io/"
+url: "https://opisen.github.io/"
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -13,7 +13,7 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Tsanko Andreev
+  name: Opi Sen Gupta
   title: Fullstack .NET Web Developer
   address: Sofia, Mladost-4, Bulgaria
   email: tsankoandreev#hotmail.com
